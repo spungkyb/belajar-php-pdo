@@ -1,0 +1,25 @@
+.btn-action{
+	font-size: 16px;
+	padding: 3px 10px;
+	border:none;
+	color: #777;
+	border:2px solid #eee;
+	background-color: #fff;
+}
+
+.tbl-title{
+	font-size: 20px;
+	margin: 5px;
+	font-weight: bold;
+	font-family: 'Oxygen', sans-serif;
+	text-transform: capitalize;
+}
+
+.tbl-date{
+	color: #777;
+}
+
+.publish{
+	border:2px solid #00aa44;
+	color: #00aa44;
+}
